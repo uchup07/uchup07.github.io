@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Notch Island Updates</title>
+    <link>https://uchup07.github.io/notch-island/</link>
+    <description>Release updates for Notch Island on macOS.</description>
+    <language>en</language>
+    <!-- Add a release item only after its ZIP is signed with Sparkle's EdDSA private key. -->
+  </channel>
+</rss>
