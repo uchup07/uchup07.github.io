@@ -6,5 +6,13 @@
     <description>Release updates for Notch Island on macOS.</description>
     <language>en</language>
     <!-- Add a release item only after its ZIP is signed with Sparkle's EdDSA private key. -->
+    <item>
+      <title>Version 0.4.0</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 14 Oct 2026 18:11:41 +0700</pubDate>
+      <enclosure url="https://uchup07.github.io/notch-island-release/NotchIsland-0.4.0-6-universal.zip" sparkle:edSignature="VJHnpqE9uT19i3iP5+Wx9VcCByI8P5S8QonBn8SgZ4eLNr/2E/g3n+F93nph2Gvh4R//3TBQQ3Sa2zvi9XNlCg==" length="7385711" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+Notch Island — macOS 15 or later (Apple Silicon and Intel)
+
+1. Unzip the release and drag NotchIsland.app into Applications.
+2. Open NotchIsland from Applications.
+3. This release is ad-hoc signed and is not notarized by Apple. If macOS
+   blocks it because the developer cannot be verified, open System Settings
+   > Privacy & Security, scroll to the security message, and click Open Anyway.
+   Confirm Open and authenticate if requested. Only do this for a download
+   from a source you trust. Managed Macs may prevent this override.
+4. Look for the notch surface or menu-bar icon; the app has no Dock icon.
+   Grant Automation or Accessibility access when using features that need it.
+
+When replacing an existing version, quit Notch Island first. Ad-hoc signatures
+may require granting permissions again after updates. If Accessibility stops
+working, remove the old entry in Privacy & Security > Accessibility and add
+the app from Applications again.
+
+Apple's instructions:
+https://support.apple.com/en-us/102445
